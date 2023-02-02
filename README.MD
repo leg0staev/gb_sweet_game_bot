@@ -10,9 +10,7 @@
 
 Для работы бота необходимо установить библиотеку [Python Telegram Bot v.20](https://docs.python-telegram-bot.org/en/stable/# "Описание")
 
-<code>
-pip install python-telegram-bot --upgrade
-</code>
+<code>pip install python-telegram-bot --upgrade</code>
 
 ---
 **Команды боту**
